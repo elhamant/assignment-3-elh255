@@ -9,7 +9,7 @@ navbar:
       href: naomi.html
 output:
   html_document:
-    theme: darkly
+    theme: slate
     highlight: textmate
     toc: true 
     toc_float: true 

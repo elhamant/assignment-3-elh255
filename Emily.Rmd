@@ -48,12 +48,19 @@ knitr::opts_chunk$set(echo = TRUE)
 <font size="4">
 
 * My Friends 
+
 * Lack of Humidity 
+
 * Climbing outside in the Sun 
+
 * Wine 
+
 * Single Hill Bingo with Claire 
+
 * Seeing Rainier and Adams every day 
+
 * Cascade Hikes 
+
 * Good Mexican Food
 </font>
 

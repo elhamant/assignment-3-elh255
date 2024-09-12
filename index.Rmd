@@ -1,19 +1,26 @@
 ---
-title: "Collab Website"
-author: "Emily"
-date: "2024-09-12"
+title: "Emily and Naomi Successfully Made a Website!"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+---
+
+# WE DID IT 
+
+After force quitting, restarting, and Googling error messages for approximately an HOUR, We. Have. Succeeded! 
 
 
-## partners
+This page is our success. I hope you enjoy. 
+
+---
+
+### Partners
 
 Emily Hamant: https://github.com/elhamant
 
 Naomi Murray: https://github.com/naomiamurray
 
-![Arbutus Canker](https://www.bpmcdn.com/f/files/sooke/import/2017-04/24440sookeGNG-ArbutusfungusPMar2515.jpg;w=725)
+![](https://t3.ftcdn.net/jpg/04/57/71/58/360_F_457715882_WyNbT7ffNndTgO986fFsukTm3inzPN8O.jpg)

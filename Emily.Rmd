@@ -19,9 +19,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ---
 <br>
 
-#### My Cats 
+### My Cats {.tabset}
 
 <br>
+
+#### Sprout
 
 ![Sprout](C:/github/NTRES6100/assignment-3-elh255/sprout.jpg){width=250 height=300} 
 
@@ -29,6 +31,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 <br>
+
+#### Goose 
 
 ![Goose](C:/github/NTRES6100/assignment-3-elh255/image000002.jpg){width=225 height=350}
 

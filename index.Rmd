@@ -1,0 +1,19 @@
+---
+title: "Collab Website"
+author: "Emily"
+date: "2024-09-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## partners
+
+Emily Hamant: https://github.com/elhamant
+
+Naomi Murray: https://github.com/naomiamurray
+
+![Emily's cat Sprout](C:\Users\emily\Downloads\20201119_213845.jpg)
